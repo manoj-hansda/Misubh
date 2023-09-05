@@ -734,7 +734,15 @@ ul.navbar-nav > li.active > a {
 }
 
 .header-two .logo img {
-  height: 30px;
+  height: 100px;
+}
+
+.header-two .logo .company-title {
+  font-size: 1.8rem;
+  text-transform: uppercase;
+  font-weight: bolder;
+  line-height: 1;
+  margin-left: 16px;
 }
 
 /* header right */
@@ -1467,6 +1475,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 }
 
 .box-slide-description {
+  font-size: 16px;
   color: #fff;
 }
 @media (max-width: 767px) {

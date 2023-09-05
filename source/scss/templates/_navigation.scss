@@ -183,7 +183,15 @@ ul.navbar-nav>li.active>a {
   height: 35px;
 }
 .header-two .logo img {
-  height: 30px;
+  height: 100px;
+}
+
+.header-two .logo .company-title {
+  font-size: 1.8rem;
+  text-transform: uppercase;
+  font-weight: bolder;
+  line-height: 1;
+  margin-left: 16px;
 }
 
 /* header right */
